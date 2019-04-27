@@ -1,0 +1,7 @@
+[CERTI]
+ROOT = 
+PRIVATE_KEY = 
+CERT_FILE = 
+
+[HOST]
+NAME = 
