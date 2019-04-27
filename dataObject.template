@@ -1,0 +1,15 @@
+{
+    deviceID: String,
+    timestamp: int,
+    data:{
+            temperature:float,
+            co:float,
+            sox:float,
+            o3:float,
+            nox:float,
+            pm25:float,
+            pm10:float,
+	    aqi:number,
+	    cat:number
+        }
+}
